@@ -16,15 +16,11 @@ Hi 👋 My name is Andrew!
 ### Socials
 <p align="left">
   <a href="mailto:landrew1018@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/andrewliu333" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/andrew-_-/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.chess.com/member/AHHHHHH0o0" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FAHHHHHH0o0%2Fstats&color=7FA650&logoColor=white" alt="Chess.com rating"/>
-  </a>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FAHHHHHH0o0%2Fstats&color=7FA650&logoColor=white" alt="Chess.com rating"/></a>
 </p>
