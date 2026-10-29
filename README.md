@@ -8,10 +8,10 @@ Hi 👋 My name is Andrew!
 - I like chess, weightlifting, basketball, reading, music festivals, and trying new things
 
 ### My (expanding) techstack:
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,r,swift,tensorflow,pytorch,sklearn,gcp,aws,azure,docker,kubernetes,supabase,mysql,mongodb,postgres,anaconda,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,go,scala,r,swift,pytorch,tensorflow,sklearn,gcp,aws,azure,docker,kubernetes,anaconda,git,bash)](https://skillicons.dev)
 
 ### Currently learning:
-- vLLM
+- Quantization and QLoRA
 
 ### Socials
 <p align="left">
