@@ -3,9 +3,9 @@ Hi 👋 My name is Andrew!
 
 ### A little about me:
 - 1st year Masters of Computational Data Science (MCDS) student at Carnegie Mellon University
-- I am interested in everything big data and AI/ML
+- I am interested in efficient machine learning models and systems
 - Aspiring ML engineer / ML researcher
-- I like chess, weightlifting, basketball, reading, music festivals, and trying new things
+- I like food, chess, weightlifting, basketball, reading, music festivals, and trying new things
 
 ### My (expanding) techstack:
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,go,scala,r,swift,pytorch,tensorflow,sklearn,gcp,aws,azure,docker,kubernetes,anaconda,git,bash)](https://skillicons.dev)
